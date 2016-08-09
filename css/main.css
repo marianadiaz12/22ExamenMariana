@@ -8,7 +8,7 @@ a{
 	font-weight: 100px;
 }
 .fondo1{
-	background-color: black;
+	background-color: #151515;
 	padding: 20px;
 }
 
@@ -18,7 +18,7 @@ a{
 }
 
 li a:hover { 
-	color: red; 
+	color: #DF0174; 
 }
 
 .parge{
@@ -26,10 +26,11 @@ li a:hover {
 }
 
 .bot{
-	border-radius:40%;
-	background-color: gray;
+	border-radius:30px;
+	background-color: #848484;
 	height: 30px;
 	width: 90px;
+	border:none;
 }
 .bk-w{
 	background-color: white;
@@ -37,4 +38,24 @@ li a:hover {
 
 .mr-b{
 	margin-bottom: 10%;
+}
+.mr-t{
+	margin-top: 5%;
+}
+.mr-b5{
+	margin-bottom: 5%;
+}
+
+.color{
+	color: #DF0174;
+}
+.tam{
+	font-size: 20px;
+}
+
+.copy{
+	font-size: 10px;
+}
+.botf{
+	background-color: #DF0174;
 }
