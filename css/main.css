@@ -1,0 +1,40 @@
+a{
+	text-decoration: none;
+}
+.titulo{
+	font-size: 40px;
+}
+.gen{
+	font-weight: 100px;
+}
+.fondo1{
+	background-color: black;
+	padding: 20px;
+}
+
+.menu{
+	display: inline-block;
+	padding: 5px;
+}
+
+li a:hover { 
+	color: red; 
+}
+
+.parge{
+	font-size: 30px;
+}
+
+.bot{
+	border-radius:40%;
+	background-color: gray;
+	height: 30px;
+	width: 90px;
+}
+.bk-w{
+	background-color: white;
+}
+
+.mr-b{
+	margin-bottom: 10%;
+}
