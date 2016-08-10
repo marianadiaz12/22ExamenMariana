@@ -14,9 +14,14 @@
   margin-left: auto;
 }
 
-.container-fluid{
-	width: 100%;
+/*Se agruego un container-fluid,
+para el proyecto examen*/
+.container-fluid {
+	width:100%;
+	margin: 0px auto;
 }
+	
+
 
 @media (max-width: 767px) {
 	.container {

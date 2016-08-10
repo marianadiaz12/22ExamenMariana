@@ -55,7 +55,20 @@ li a:hover {
 
 .copy{
 	font-size: 10px;
+	margin-top: 2%;
 }
 .botf{
 	background-color: #DF0174;
 }
+
+.reds{
+	border:1px dashed gray;
+	border-radius: 100%;
+	margin: 2px;
+	padding: 2px;
+}
+
+.est{
+	border: 1px solid gray;;
+}
+
